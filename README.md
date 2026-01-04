@@ -1,4 +1,4 @@
-## Sleep-Wake Cycle Hormone Analysis
+# Sleep-Wake Cycle Hormone Analysis
 
 I worked on this project as part of the Digital Health and Human Behavior course at Aalto University.
 In this project, I use the [MMASH dataset](https://physionet.org/content/mmash/1.0.0/) (Multilevel Monitoring of Activity and Sleep in Healthy people) to study how sleep patterns, physical activities, and stress levels influence melatonin and cortisol level in the sleep-wake cycle. 
@@ -7,7 +7,7 @@ The more report and key visualization of the project can be found in [the report
 
 **Grade: ~95/100**
 
-# Methods
+## Methods
 
 For statistical analysis
 
@@ -22,7 +22,7 @@ For machine Learning
 - Evaluation: Root Mean Squared Error (RMSE)
 - Features: Cortisol before sleep, MEQ score, sleep efficiency, daily stress, state anxiety
 
-# Key Findings
+## Key Findings
 
 Statistical Insights
 
